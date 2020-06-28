@@ -1,2 +1,2 @@
 # RicochetRobot
-Board game developed by Unity
+Board game made with Unity
